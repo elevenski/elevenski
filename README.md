@@ -1,18 +1,13 @@
 ### Hi there, I'm Eleven! 👋
-
 <br>
-
 <a href="https://twitter.com/11washere">
   <img align="left" alt="11washere" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/yC659VN">
   <img align="left" alt="Discord Bot List" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/discord-round.svg" />
 </a>
-
 <br>
-
-Hi, I'm Eeleven, a passionate self-taught Front-End web developer from Turkey.
-
+Hi, I'm Eleven, a passionate self-taught Front-End web developer from Turkey.
 <br />
 <br />
 
