@@ -1,1 +1,22 @@
-![eleven's github stats](https://github-readme-stats.vercel.app/api?username=11washere&show_icons=true&theme=radical)
+### Hi there, I'm Eleven! 👋
+I'm Front-end developer,
+
+<a href="https://twitter.com/11washere">
+  <img align="left" alt="11washere" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/yC659VN">
+  <img align="left" alt="Discord Bot List" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/discord-round.svg" />
+</a>
+
+<br />
+<br />
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+
+![11washere's Github Stats](https://github-readme-stats.vercel.app/api?username=AdemCan0BEY&show_icons=true&theme=radical)
+
+![11washere's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11washere)
