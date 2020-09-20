@@ -1,5 +1,4 @@
 ### Hi there, I'm Eleven! 👋
-<br>
 <a href="https://twitter.com/11washere">
   <img align="left" alt="11washere" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
 </a>
