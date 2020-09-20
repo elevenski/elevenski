@@ -1,15 +1,11 @@
-### Hi there, I'm Eleven! 👋
-<a href="https://twitter.com/11washere">
-  <img align="left" alt="11washere" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/yC659VN">
-  <img align="left" alt="Discord Bot List" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/discord-round.svg" />
-</a>
-<br><br>
-Hi, I'm Eleven, a passionate self-taught Front-End web developer from Turkey.
-<br />
-<br />
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-![11washere's Github Stats](https://github-readme-stats.vercel.app/api?username=11washere&show_icons=true&line_height=21&show_icons=true&theme=vuel)
+## Github info
+
+![11washere's Github Stats](https://github-readme-stats.vercel.app/api?username=11washere&show_icons=true&line_height=21&show_icons=true&theme=vue)
 
 ![11washere's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11washere)
+
+### The song I listen to the most
+
+[![Spotify](https://cdn.discordapp.com/attachments/753632375858135152/757259743654969354/unknown.png)](https://open.spotify.com/track/5X4UUWdOURJN7PePHKJBy4?si=LmXL7ipzQ3WC7FiHvLuXCw)
