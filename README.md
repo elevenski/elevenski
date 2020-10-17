@@ -1,3 +1,12 @@
-![elevendev's Github Stats](https://github-readme-stats.vercel.app/api?username=elevendev&show_icons=true&line_height=21&show_icons=true&theme=vue)
+<p align="center">I'm a human.</p>
+<p align="center">
+  <a href="https://eleven.js.org" target="_blank">Website</a>
+  |
+  <a href="https://twitter.com/elevendev_" target="_blank">Twitter</a>
+  |
+  <a href="https://discord.gg/yC659VN" target="_blank">Discord</a>
+</p>
 
-![elevendev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elevendev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elevendev&count_private=true&show_icons=true&theme=dark&hide_border=true" width="50%" height="150px" alt="stats" />
+</p>
