@@ -1,4 +1,4 @@
-<p align="center">I'm a human.</p>
+<p align="center">Turkish developer who always tries to improve her skills, is currently working with HTML, JavaScript, PHP, Python.</p>
 <p align="center">
   <a href="https://eleven.js.org" target="_blank">Website</a>
   |
