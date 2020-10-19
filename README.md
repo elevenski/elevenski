@@ -4,7 +4,7 @@
   |
   <a href="https://twitter.com/elevendev_" target="_blank">Twitter</a>
   |
-  <a href="https://discord.gg/yC659VN" target="_blank">Discord</a>
+  <a href="https://discord.gg/T4BMtSu" target="_blank">Discord</a>
 </p>
 
 <p align="center">
