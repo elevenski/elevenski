@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://eleven.js.org" target="_blank">Website</a>
-  |
+  -
   <a href="https://twitter.com/elevendev_" target="_blank">Twitter</a>
-  |
+  -
   <a href="https://discord.gg/T4BMtSu" target="_blank">Discord</a>
 </p>
 
